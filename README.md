@@ -92,6 +92,7 @@ wsa://com.android.settings
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
 | Blue Archive (KR) | 1.35.115378 | ❌ | Blank screen on app launch ||
+| Botworld Adventure | 1.0.0 | ⚠️ | laggy with high graphic settings
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
 | CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a snap | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
