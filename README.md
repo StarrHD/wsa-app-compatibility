@@ -190,6 +190,7 @@ wsa://com.android.settings
 | Magisk | Internal build? | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | ManCityApp | 2.1.11 | 🆖 | | Might require GMS |
 | Manzur's Study Circle (MSC) | 1.0.2 | ✅ |||
+| Man or Vampire | 1.6.2 | ✅|issues logging in with facebook/Google. Guest mode only
 | MapleStory M | 1.7000.2835 | ❌ |Crashes at loading screen||
 | Mario Kart Tour | 2.10.0 | ❌ | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | ✅ ||
